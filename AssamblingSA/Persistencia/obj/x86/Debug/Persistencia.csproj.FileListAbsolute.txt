@@ -1,0 +1,147 @@
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Persistencia\bin\Debug\Common.dll
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Persistencia\bin\Debug\Common.pdb
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Persistencia\obj\x86\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Persistencia\obj\x86\Debug\Persistencia.dll
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Persistencia\obj\x86\Debug\Persistencia.pdb
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Persistencia\bin\Debug\App.config
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Persistencia\bin\Debug\App.config
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Persistencia\bin\Debug\Common.dll
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Persistencia\bin\Debug\Common.pdb
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Persistencia\obj\x86\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Persistencia\obj\x86\Debug\Persistencia.dll
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Persistencia\obj\x86\Debug\Persistencia.pdb
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Persistencia\bin\Debug\App.config
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Persistencia\bin\Debug\Persistencia.dll.config
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Persistencia\bin\Debug\Persistencia.dll
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Persistencia\bin\Debug\Persistencia.pdb
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Persistencia\bin\Debug\Common.dll
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Persistencia\bin\Debug\Common.pdb
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Persistencia\obj\x86\Debug\Persistencia.csprojResolveAssemblyReference.cache
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Persistencia\obj\x86\Debug\Persistencia.dll
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Persistencia\obj\x86\Debug\Persistencia.pdb
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Persistencia\bin\Debug\App.config
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Persistencia\bin\Debug\Persistencia.dll.config
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Persistencia\bin\Debug\Persistencia.dll
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Persistencia\bin\Debug\Persistencia.pdb
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Persistencia\bin\Debug\Common.dll
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Persistencia\bin\Debug\Common.pdb
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Persistencia\obj\x86\Debug\Persistencia.csprojResolveAssemblyReference.cache
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Persistencia\obj\x86\Debug\Persistencia.dll
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Persistencia\obj\x86\Debug\Persistencia.pdb
+I:\Programacion 3\Obligatorio\Assembling SA\Persistencia\bin\Debug\App.config
+I:\Programacion 3\Obligatorio\Assembling SA\Persistencia\bin\Debug\Persistencia.dll.config
+I:\Programacion 3\Obligatorio\Assembling SA\Persistencia\bin\Debug\Persistencia.dll
+I:\Programacion 3\Obligatorio\Assembling SA\Persistencia\bin\Debug\Persistencia.pdb
+I:\Programacion 3\Obligatorio\Assembling SA\Persistencia\bin\Debug\Common.dll
+I:\Programacion 3\Obligatorio\Assembling SA\Persistencia\bin\Debug\Common.pdb
+I:\Programacion 3\Obligatorio\Assembling SA\Persistencia\obj\x86\Debug\Persistencia.csprojResolveAssemblyReference.cache
+I:\Programacion 3\Obligatorio\Assembling SA\Persistencia\obj\x86\Debug\Persistencia.dll
+I:\Programacion 3\Obligatorio\Assembling SA\Persistencia\obj\x86\Debug\Persistencia.pdb
+C:\Users\Brian\Desktop\OBLIGATORIO\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\OBLIGATORIO\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.dll
+C:\Users\Brian\Desktop\OBLIGATORIO\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.pdb
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\bin\Debug\App.config
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll.config
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\bin\Debug\Persistencia.pdb
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\bin\Debug\Common.dll
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\bin\Debug\Common.pdb
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.csprojResolveAssemblyReference.cache
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.dll
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.pdb
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\bin\Debug\App.config
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll.config
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\bin\Debug\Persistencia.pdb
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\bin\Debug\Common.dll
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\bin\Debug\Common.pdb
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.csprojResolveAssemblyReference.cache
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.dll
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.pdb
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\bin\Debug\App.config
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll.config
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\bin\Debug\Persistencia.pdb
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\bin\Debug\Common.dll
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\bin\Debug\Common.pdb
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.csprojResolveAssemblyReference.cache
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.dll
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.pdb
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Persistencia\bin\Debug\App.config
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Common.dll
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Common.pdb
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.dll
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.pdb
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\bin\Debug\App.config
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll.config
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.pdb
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Common.dll
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Common.pdb
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.csprojResolveAssemblyReference.cache
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.dll
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.pdb
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\bin\Debug\App.config
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll.config
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.pdb
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Common.dll
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Common.pdb
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.csprojResolveAssemblyReference.cache
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.dll
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.pdb
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\bin\Debug\App.config
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll.config
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.pdb
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Common.dll
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Common.pdb
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.csprojResolveAssemblyReference.cache
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.dll
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.pdb
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Persistencia\bin\Debug\App.config
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Common.dll
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Common.pdb
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.dll
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.pdb
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Persistencia\bin\Debug\App.config
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll.config
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.pdb
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Common.dll
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Common.pdb
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.csprojResolveAssemblyReference.cache
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.dll
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.pdb
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Persistencia\bin\Debug\App.config
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll.config
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.pdb
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Common.dll
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Common.pdb
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.csprojResolveAssemblyReference.cache
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.dll
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.pdb
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Persistencia\bin\Debug\App.config
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll.config
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.dll
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Persistencia.pdb
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Common.dll
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Persistencia\bin\Debug\Common.pdb
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.csprojResolveAssemblyReference.cache
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.dll
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Persistencia\obj\x86\Debug\Persistencia.pdb

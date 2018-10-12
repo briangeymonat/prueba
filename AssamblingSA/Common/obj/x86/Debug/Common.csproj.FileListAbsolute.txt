@@ -1,0 +1,29 @@
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Common\bin\Debug\Common.dll
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Common\bin\Debug\Common.pdb
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Common\obj\x86\Debug\Common.dll
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Common\obj\x86\Debug\Common.pdb
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Common\bin\Debug\Common.dll
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Common\bin\Debug\Common.pdb
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Common\obj\x86\Debug\Common.dll
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Common\obj\x86\Debug\Common.pdb
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Common\obj\x86\Debug\Common.csprojResolveAssemblyReference.cache
+I:\Programacion 3\Obligatorio\Assembling SA\Common\bin\Debug\Common.dll
+I:\Programacion 3\Obligatorio\Assembling SA\Common\bin\Debug\Common.pdb
+I:\Programacion 3\Obligatorio\Assembling SA\Common\obj\x86\Debug\Common.csprojResolveAssemblyReference.cache
+I:\Programacion 3\Obligatorio\Assembling SA\Common\obj\x86\Debug\Common.dll
+I:\Programacion 3\Obligatorio\Assembling SA\Common\obj\x86\Debug\Common.pdb
+C:\Users\Brian\Desktop\OBLIGATORIO\AssamblingSA\Common\bin\Debug\Common.dll
+C:\Users\Brian\Desktop\OBLIGATORIO\AssamblingSA\Common\bin\Debug\Common.pdb
+C:\Users\Brian\Desktop\OBLIGATORIO\AssamblingSA\Common\obj\x86\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\OBLIGATORIO\AssamblingSA\Common\obj\x86\Debug\Common.dll
+C:\Users\Brian\Desktop\OBLIGATORIO\AssamblingSA\Common\obj\x86\Debug\Common.pdb
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Common\bin\Debug\Common.dll
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Common\bin\Debug\Common.pdb
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Common\obj\x86\Debug\Common.csprojResolveAssemblyReference.cache
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Common\obj\x86\Debug\Common.dll
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Common\obj\x86\Debug\Common.pdb
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Common\bin\Debug\Common.dll
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Common\bin\Debug\Common.pdb
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Common\obj\x86\Debug\Common.csprojResolveAssemblyReference.cache
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Common\obj\x86\Debug\Common.dll
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Common\obj\x86\Debug\Common.pdb

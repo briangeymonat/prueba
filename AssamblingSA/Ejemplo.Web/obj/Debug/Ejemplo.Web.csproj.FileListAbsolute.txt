@@ -1,0 +1,186 @@
+c:\users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Ejemplo.Web\bin\Ejemplo.Web.dll
+c:\users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Ejemplo.Web\bin\Ejemplo.Web.pdb
+c:\users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Ejemplo.Web\obj\Debug\Ejemplo.Web.dll
+c:\users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Ejemplo.Web\obj\Debug\Ejemplo.Web.pdb
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Ejemplo.Web\bin\Common.dll
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Ejemplo.Web\bin\Dominio.dll
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Ejemplo.Web\bin\Persistencia.dll
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Ejemplo.Web\bin\Common.pdb
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Ejemplo.Web\bin\Dominio.pdb
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Ejemplo.Web\bin\Persistencia.pdb
+C:\Users\raizen\documents\visual studio 2010\Projects\EjemploPersistencia\Ejemplo.Web\obj\Debug\Ejemplo.Web.csprojResolveAssemblyReference.cache
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Ejemplo.Web\bin\Ejemplo.Web.dll
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Ejemplo.Web\bin\Ejemplo.Web.pdb
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Ejemplo.Web\bin\Common.dll
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Ejemplo.Web\bin\Dominio.dll
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Ejemplo.Web\bin\Persistencia.dll
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Ejemplo.Web\bin\Common.pdb
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Ejemplo.Web\bin\Dominio.pdb
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Ejemplo.Web\bin\Persistencia.pdb
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Ejemplo.Web\obj\Debug\Ejemplo.Web.csprojResolveAssemblyReference.cache
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Ejemplo.Web\obj\Debug\Ejemplo.Web.dll
+C:\Users\raizen\Downloads\Clase10_EjemploPersistencia (2)\EjemploPersistencia\Ejemplo.Web\obj\Debug\Ejemplo.Web.pdb
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\bin\Ejemplo.Web.dll.config
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\bin\Ejemplo.Web.dll
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\bin\Ejemplo.Web.pdb
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\bin\Common.dll
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\bin\Dominio.dll
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\bin\Persistencia.dll
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\bin\Common.pdb
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\bin\Dominio.pdb
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\bin\Persistencia.pdb
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\obj\Debug\Ejemplo.Web.csprojResolveAssemblyReference.cache
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\obj\Debug\Ejemplo.Web.dll
+E:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\obj\Debug\Ejemplo.Web.pdb
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\bin\Ejemplo.Web.dll.config
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\bin\Ejemplo.Web.dll
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\bin\Ejemplo.Web.pdb
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\bin\Common.dll
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\bin\Dominio.dll
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\bin\Persistencia.dll
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\bin\Common.pdb
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\bin\Dominio.pdb
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\bin\Persistencia.pdb
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\obj\Debug\Ejemplo.Web.csprojResolveAssemblyReference.cache
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\obj\Debug\Ejemplo.Web.dll
+J:\Programacion 3\Clase10_EjemploPersistencia\EjemploPersistencia\Ejemplo.Web\obj\Debug\Ejemplo.Web.pdb
+I:\Programacion 3\Obligatorio\Assembling SA\Ejemplo.Web\obj\Debug\Ejemplo.Web.csprojResolveAssemblyReference.cache
+I:\Programacion 3\Obligatorio\Assembling SA\Ejemplo.Web\obj\Debug\Ejemplo.Web.dll
+I:\Programacion 3\Obligatorio\Assembling SA\Ejemplo.Web\obj\Debug\Ejemplo.Web.pdb
+C:\Users\Brian\Desktop\OBLIGATORIO\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\OBLIGATORIO\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.dll
+C:\Users\Brian\Desktop\OBLIGATORIO\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.pdb
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.csprojResolveAssemblyReference.cache
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.dll
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.pdb
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\App.config
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll.config
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.pdb
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Common.dll
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Dominio.dll
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Persistencia.dll
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Common.pdb
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Dominio.pdb
+D:\BRIAN\Documents\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Persistencia.pdb
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll.config
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.pdb
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Common.dll
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Dominio.dll
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Persistencia.dll
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Common.pdb
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Dominio.pdb
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Persistencia.pdb
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.csprojResolveAssemblyReference.cache
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.dll
+D:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.pdb
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll.config
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.pdb
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Common.dll
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Dominio.dll
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Persistencia.dll
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Common.pdb
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Dominio.pdb
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\bin\Persistencia.pdb
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.csprojResolveAssemblyReference.cache
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.dll
+F:\Programacion 3\OBLIGATORIO\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.pdb
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll.config
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.pdb
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Common.dll
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Dominio.dll
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Persistencia.dll
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Common.pdb
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Dominio.pdb
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Persistencia.pdb
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.csprojResolveAssemblyReference.cache
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.dll
+C:\Users\Sebastián Muñiz\Documents\Analista Programador\Programación 3\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.pdb
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll.config
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.pdb
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Common.dll
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Dominio.dll
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Persistencia.dll
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Common.pdb
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Dominio.pdb
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Persistencia.pdb
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.csprojResolveAssemblyReference.cache
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.dll
+D:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.pdb
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll.config
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.pdb
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Common.dll
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Dominio.dll
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Persistencia.dll
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Common.pdb
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Dominio.pdb
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Persistencia.pdb
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.csprojResolveAssemblyReference.cache
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.dll
+H:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.pdb
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.csprojResolveAssemblyReference.cache
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.dll
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.pdb
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll.config
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.pdb
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Common.dll
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Dominio.dll
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Persistencia.dll
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Common.pdb
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Dominio.pdb
+F:\Programacion 3\OBLIGATORIO\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Persistencia.pdb
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll.config
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.pdb
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Common.dll
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Dominio.dll
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Persistencia.dll
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Common.pdb
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Dominio.pdb
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Persistencia.pdb
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.dll
+C:\Users\Usuario\Desktop\brian\programacion 3\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.pdb
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll.config
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.pdb
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Common.dll
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Dominio.dll
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Persistencia.dll
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Common.pdb
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Dominio.pdb
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Persistencia.pdb
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.csprojResolveAssemblyReference.cache
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.dll
+D:\BRIAN\Documents\Programacion 3\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.pdb
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll.config
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.pdb
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Common.dll
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Dominio.dll
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Persistencia.dll
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Common.pdb
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Dominio.pdb
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Persistencia.pdb
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.csprojResolveAssemblyReference.cache
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.dll
+D:\BRIAN\Documents\Programacion 3\ULTIMA VERSION Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.pdb
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll.config
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.dll
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Ejemplo.Web.pdb
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Common.dll
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Dominio.dll
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Persistencia.dll
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Common.pdb
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Dominio.pdb
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\Persistencia.pdb
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.csprojResolveAssemblyReference.cache
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.dll
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\obj\Debug\Ejemplo.Web.pdb
+D:\BRIAN\Documents\Programacion 3\TERMINADO Obligatorio\Obligatorio\Obligatorio\AssamblingSA\Ejemplo.Web\bin\App.config

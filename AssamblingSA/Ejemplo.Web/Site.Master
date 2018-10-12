@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Ejemplo.Web.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                    Assembling SA
+                </h1>
+            </div>
+           
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Inicio" Value="Inicio"/>
+                        <asp:MenuItem NavigateUrl="~/Automovil.aspx" Text="Automovil" Value="Automovil"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Operario.aspx" Text="Operario" Value="Operario"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Pieza.aspx" Text="Pieza" Value="Pieza"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Tipo_Opereario.aspx" Text="Tipo de Operario" Value="Tipo de Operario"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/AutoPieza.aspx" Text="Agregar piezas al automovil" Value="Agregar piezas al automovil"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Trabaja.aspx" Text="Jornada de trabajo" Value="Jornada de trabajo"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Fabricacion_Automovil.aspx" Text="Detalles del automovil" Value="Detalles del automovil"></asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>
